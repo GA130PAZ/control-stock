@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
    
 
-    fetch('/productos.json')
+    fetch('productos.json')
         .then((resp) => resp.json())
         .then((data) => {
             data.forEach((prod) => {
