@@ -1,12 +1,12 @@
 [
-    {"id": 1, "nombre": "Colgante", "desc": "Para tu hogar", "precio": 500, "img": "/img/img1.jpg"},
-    {"id": 2, "nombre": "Centro de mesa", "desc": "Para tu mesa", "precio": 1000, "img": "/img/img10.jpg"},
-    {"id": 3, "nombre": "Farol", "desc": "Alumina tu hogar", "precio": 5000, "img": "/img/img3.jpg"},
-    {"id": 4, "nombre": "Porta maceta",  "desc": "Para tus macetas", "precio": 10000, "img": "/img/img4.jpg"},
-    {"id": 5, "nombre": "Macetas",  "desc": "Para tus plantas", "precio": 2000, "img": "/img/img5.jpg"},
-    {"id": 6, "nombre": "Macetas de plastico",  "desc": "Para tu jardin", "precio": 15500, "img": "/img/img6.jpg"},
-    {"id": 7, "nombre": "Mesas ratonas",  "desc": "Mesas mini", "precio": 25000, "img": "/img/img7.jpg"},
-    {"id": 8, "nombre": "Sillon de madera",  "desc": "Para tu comodidad", "precio": 30000, "img": "/img/img8.jpg"},
-    {"id": 9, "nombre": "Carro de trabajo",  "desc": "Para tus herramientas", "precio": 30000, "img": "/img/img9.jpg"}
+    {"id": 1, "nombre": "Colgante", "desc": "Para tu hogar", "precio": 500, "img": "img/img1.jpg"},
+    {"id": 2, "nombre": "Centro de mesa", "desc": "Para tu mesa", "precio": 1000, "img": "img/img10.jpg"},
+    {"id": 3, "nombre": "Farol", "desc": "Alumina tu hogar", "precio": 5000, "img": "img/img3.jpg"},
+    {"id": 4, "nombre": "Porta maceta",  "desc": "Para tus macetas", "precio": 10000, "img": "img/img4.jpg"},
+    {"id": 5, "nombre": "Macetas",  "desc": "Para tus plantas", "precio": 2000, "img": "img/img5.jpg"},
+    {"id": 6, "nombre": "Macetas de plastico",  "desc": "Para tu jardin", "precio": 15500, "img": "img/img6.jpg"},
+    {"id": 7, "nombre": "Mesas ratonas",  "desc": "Mesas mini", "precio": 25000, "img": "img/img7.jpg"},
+    {"id": 8, "nombre": "Sillon de madera",  "desc": "Para tu comodidad", "precio": 30000, "img": "img/img8.jpg"},
+    {"id": 9, "nombre": "Carro de trabajo",  "desc": "Para tus herramientas", "precio": 30000, "img": "img/img9.jpg"}
     
 ]
