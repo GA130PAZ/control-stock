@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/estilosM.css" />
+    <title>Macetas y mas</title>
+  </head>
+  <body>
+  
+    <header>
+      <nav class="navBar">
+        <!--Dos div para dividir el nav en cada punta de la pagina-->
+        <div class="logo">
+          <a href="/index.html"><img src="/img/logo.png" alt="" /></a>
+        </div>
+          <ul class="navList">
+            <li><a href="/index.html">Inicio</a></li>
+          </ul>
+      </nav>
+    </header>
+    <main>
+        <form id="formulario">
+            <h2>Datos de registro</h2>
+            <div>
+            <input type="text" placeholder="Nombre" id="nombre" name="nombre">    
+            <div class="error-text"></div>
+
+            </div>
+            <div>
+            <input type="text" placeholder="Apellido" id="apellido" name="apellido">    
+            <div class="error-text"></div>
+            </div>
+            <div>
+                <input type="email" placeholder="Email" id="email" name="email">    
+            <div class="error-text"></div>
+            </div>
+            <div>
+              <input type="password" placeholder="Contraseña" id="password" name="password">    
+              <div class="error-text"></div>
+            </div>
+            <button type="submit">Enviar</button>
+        </form>
+    </main>
+    <script src="/formulario.js"></script>
+  </body>
